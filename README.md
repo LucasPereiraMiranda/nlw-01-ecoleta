@@ -2,7 +2,7 @@
 
 
 <h1 align="center">
-  <img alt="Ecoleta" title="#ecoleta" src=".github/logo.png" width="250px" />
+  <img alt="Ecoleta" title="#ecoleta" src=".github/ecoleta.png" width="300px" />
 </h1>
 
 <p align="center">
@@ -68,7 +68,7 @@ The package manager used in this version of the project was the Yarn.
     <img alt="Ecoleta Mobile" title="#ecoleta" src=".github/mobile.png" />
 </h1>
 
-## :boom: Installation
+## 📱 Installation
 
 ```bash
 # Clone this repo
