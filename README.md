@@ -33,7 +33,7 @@
 
 ---
 
-## 🚀 Techs
+## Techs
 
 Ecoleta app was developed with these technologies
 
@@ -52,13 +52,13 @@ Ecoleta app was developed with these technologies
 - [SQLite3](https://www.sqlite.org/index.html)
  
 
-## 💻 Project
+## Project
 
 This project was developed in next level week #1, organized by Rocketseat 🚀 with the aim of helping organizations to find collection points for the disposal of organic and inorganic waste, thus contributing to the sustainability and well-being of the environment. ESlint, Prettier and Editor Config were added. 
 The package manager used in this version of the project was the Yarn.
 
 
-## 🌐 Frontend
+## Frontend
 <h1 align="center">
     <img alt="Ecoleta Front-end" title="#ecoleta" src=".github/web.png" />
 </h1>
@@ -68,7 +68,7 @@ The package manager used in this version of the project was the Yarn.
     <img alt="Ecoleta Mobile" title="#ecoleta" src=".github/mobile.png" />
 </h1>
 
-## 📱 Installation
+## Installation
 
 ```bash
 # Clone this repo
@@ -88,7 +88,7 @@ $ yarn start
 $ expo start
 
 ```
-## :warning: Obs
+## Obs
 Change the baseURL in api.ts file of the web and mobile folders to your computer ip (see more in expo localhost on browser)
 
 ---
