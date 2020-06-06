@@ -2,8 +2,6 @@
 
 
 <h1 align="center">
-  <img alt="Ecoleta" title="#ecoleta" src=".github/ecoleta.png" width="250px" />
-  <br/>
   <img alt="Ecoleta" title="#ecoleta" src=".github/logo.png" width="250px" />
 </h1>
 
@@ -26,7 +24,8 @@
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-frontend">Frontend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-mobile">Mobile</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-install">Install</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-installation">Installation</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-obs">Obs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
@@ -69,7 +68,7 @@ The package manager used in this version of the project was the Yarn.
     <img alt="Ecoleta Mobile" title="#ecoleta" src=".github/mobile.png" />
 </h1>
 
-## :boom: Install
+## :boom: Installation
 
 ```bash
 # Clone this repo
@@ -89,7 +88,7 @@ $ yarn start
 $ expo start
 
 ```
-# :warning: Obs
+## :warning: Obs
 Change the baseURL in api.ts file of the web and mobile folders to your computer ip (see more in expo localhost on browser)
 
 ---
